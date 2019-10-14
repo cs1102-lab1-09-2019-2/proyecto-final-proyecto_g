@@ -11,10 +11,10 @@ Integrantes - (Usuarios Github:):
     <i>Tania  Araceli  Barreda Galvez</i>
 
 2.- <b>nombre_completo2</b><br>
-    <i>Kendra_Ysabel_Bernal _FLores</i>
+    <i>Kendra Ysabel Bernal FLores</i>
 
 3.- <b>nombre_completo3</b><br>
-    <i>Jessica_Jorge</i>
+    <i>Jessica Jorge Cardenas</i>
 
 Instrucciones:
 --
