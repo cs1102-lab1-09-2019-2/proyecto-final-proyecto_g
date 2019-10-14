@@ -1,17 +1,17 @@
 # Proyecto de Programación Orientado a Objetos
 
 <div style="text-align:center; font-size: 15px;">
-    <b>Nombre del equipo</b>
+    <b>Proyecto_g</b>
 </div>
 
 Integrantes - (Usuarios Github:):
 --
 
 1.- <b>nombre_completo1</b><br>
-    <i>Tania_Araceli_Barreda_Galvez</i>
+    <i>usuario_github1</i>
 
 2.- <b>nombre_completo2</b><br>
-    <i>usuario_github2</i>
+    <i>Kendra_Ysabel_Bernal _FLores</i>
 
 3.- <b>nombre_completo3</b><br>
     <i>usuario_github3</i>
