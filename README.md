@@ -8,7 +8,7 @@ Integrantes - (Usuarios Github:):
 --
 
 1.- <b>nombre_completo1</b><br>
-    <i>usuario_github1</i>
+    <i>Tania_Araceli_Barreda_Galvez</i>
 
 2.- <b>nombre_completo2</b><br>
     <i>usuario_github2</i>
