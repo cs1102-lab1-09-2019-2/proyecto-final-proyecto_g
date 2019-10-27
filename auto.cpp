@@ -9,3 +9,8 @@ AVION::AVION(int x, int y, int salud, int num_vidas){
     this->salud=salud;
     this->num_vidas=num_vidas;
 }
+void AUTO::pintar() { }
+void AUTO::mover() { }
+void AUTO::borrar() { }
+void AUTO::salud_() { }
+void AUTO::muerte() { }

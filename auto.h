@@ -12,8 +12,8 @@ class AUTO{
 private:
     int x;
     int y;
-    int salud;
-    int num_vidas;
+    int salud;//cuando salud es cero las vidas disminuyen
+    int num_vidas;//cuando la vida llega a cero  se muere o termina
 public:
     AUTO(int x, int y, int salud, int num_vidas);
     int X(){return x;}
