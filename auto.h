@@ -6,7 +6,7 @@
 #define PROYECTO_AUTO_H
 
 
-/EMPIEZA LA CLASE AUTO
+//EMPIEZA LA CLASE AUTO
 //Se declara la clase para hacer el objeto
 class AUTO{
 private:
@@ -25,14 +25,5 @@ public:
     void salud_();
     void muerte();
 };
-
-AVION::AVION(int x, int y, int salud, int num_vidas){
-    this->x=x;
-    this->y=y;
-    this->salud=salud;
-    this->num_vidas=num_vidas;
-}
-
-
 
 #endif //PROYECTO_AUTO_H
