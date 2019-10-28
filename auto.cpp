@@ -3,7 +3,7 @@
 //
 
 #include "auto.h"
-AVION::AVION(int x, int y, int salud, int num_vidas){
+AUTO::AUTO(int x, int y, int salud, int num_vidas){
     this->x=x;
     this->y=y;
     this->salud=salud;
