@@ -8,6 +8,8 @@
 
 //EMPIEZA LA CLASE AUTO
 //Se declara la clase para hacer el objeto
+const int VIDAS=5;
+
 class AUTO{
 private:
     int x;
