@@ -23,9 +23,10 @@ public:
     void redu_salud(){salud--;}
     void pintar();
     void borrar();
-    void mover();
+    void mover(int x, int y);
     void salud_();
     void muerte();
+    void cursor();
 };
 
 #endif //PROYECTO_AUTO_H
